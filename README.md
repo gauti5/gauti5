@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Siddanthapu Sandeep</h1>
+<h1 align="center">I'm Siddanthapu Sandeep</h1>
 <h3 align="center">AI Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauti5&label=Profile%20views&color=0e75b6&style=flat" alt="gauti5" /> </p>
