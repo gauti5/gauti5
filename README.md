@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/gauti5](https://github.com/gauti5)](https://github.com/gauti5?tab=repositories)
+- 👨‍💻 All of my projects are available at (https://github.com/gauti5)](https://github.com/gauti5?tab=repositories)
 
 - 📫 How to reach me **siddanthapusandeep23@gmail.com**
 
