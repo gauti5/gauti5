@@ -4,7 +4,7 @@
 <h2 align="center">AI Enthusiast</h2>
 
 
-<img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="400" height="300">
+<img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="450" height="300">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauti5&label=Profile%20views&color=0e75b6&style=flat" alt="gauti5" /> </p>
