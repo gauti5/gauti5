@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working in **Accenture**
 
-- 🌱 I’m currently learning **Agentic AI**
+- 🌱 I’m currently learning **RAG**
 
 - 👨‍💻 All of my projects are available at (https://github.com/gauti5)](https://github.com/gauti5?tab=repositories)
 
