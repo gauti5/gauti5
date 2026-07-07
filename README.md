@@ -11,7 +11,7 @@
 
 
 
-- 🔭 I’m currently working in **Accenture**
+- 🔭 I’m currently working in **PwC**
 
 - 🌱 I’m currently learning **GenAI**
 
